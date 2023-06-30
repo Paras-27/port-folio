@@ -449,8 +449,9 @@ section .container {
   width: 15%;
 }
 .dice{
-  height: 339px;
-  width: 331px;
+  height: 340px;
+  width: 340px;
+  object-fit: cover;
 }
 .me{
     height: 379px;
